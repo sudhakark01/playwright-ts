@@ -12,7 +12,7 @@ This project is a test automation framework using Playwright with TypeScript.
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone git@github.com:sudhakark01/playwright-ts.git
 cd playwright-ts
 ```
 
